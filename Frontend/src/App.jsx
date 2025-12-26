@@ -1,12 +1,21 @@
 import './App.css'
+
+import Navbar from "./components/layout/Navbar"
+import Footer from "./components/layout/Footer"
+import Hero from "./components/sections/Hero"
+
 function App() {
   return (
-    <>
-<div className="h-[1400px]">
-
-    <h1 className="">hi</h1>
-</div>
-    </>
+    
+    <div className="min-h-screen  bg-white ">
+    <Navbar />
+    <main>
+      <Hero />
+    </main>
+    <Footer />
+    
+    </div>
+    
   )
 }
 
