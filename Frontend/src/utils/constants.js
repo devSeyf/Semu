@@ -1,4 +1,4 @@
-/*export const PERSONAL_INFO = {
+export const PERSONAL_INFO = {
   name: 'Alex Johnson',
   title: 'React Developer & UI/UX Enthusiast',
   email: 'alex@timetoprogram.com',
@@ -11,8 +11,6 @@
     "When I'm not coding, you'll find me contributing to open-source projects"
   ]
 };
-
-
 
 export const STATS = [
   { label: 'Years Experience', value: '3+' },
@@ -27,17 +25,12 @@ export const ABOUT_STATS = [
   { label: 'GitHub Stars', value: '500+' }
 ];
 
-
-*/
-
-
 export const SOCIAL_LINKS = {
   github: 'https://github.com',
   linkedin: 'https://linkedin.com/',
   twitter: 'https://twitter.com',
   dribbble: 'https://dribbble.com'
 };
-
 
 export const NAV_LINKS = [
   { id: 'about', label: 'About' },

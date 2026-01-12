@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Coca Cola",
+    "status": "boycott",
+    "alternative": "Cola Turka"
+  },
+  {
+    "name": "Fanta",
+    "status": "boycott",
+    "alternative": "Sarıyer Portakal"
+  }
+]
