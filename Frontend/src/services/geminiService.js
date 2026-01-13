@@ -1,40 +1,49 @@
-import { GoogleGenerativeAI } from "@google/generative-ai";
 import productsData from "../data/products.json";
 
-const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY);
-
+/**
+ * AI Assistant Service (Ollama Version)
+ * Aim: Analyze product origins and suggest Turkish alternatives using local AI.
+ * Features: Connects to local Llama3 and falls back to JSON database.
+ */
 export const getAIResponse = async (userInput, imageFile = null) => {
-  // 1. Search locally first (Fast & Free)
-  const normalizedInput = userInput.toLowerCase();
-  const matchedProduct = productsData.find(p => 
-    normalizedInput.includes(p.category.toLowerCase()) || 
-    p.foreign_brands.some(brand => normalizedInput.includes(brand.toLowerCase()))
-  );
-
-  // 2. Prepare a context-specific prompt
-  const contextPrompt = matchedProduct 
-    ? `Urun bilgisi: ${JSON.stringify(matchedProduct)}. Bu urunu ve yerli alternatiflerini acikla.`
-    : `Kullanici sorusu: ${userInput}. Yerli urunler hakkinda bilgi ver.`;
-
-  // 3. Simple Model Name (Fix for 404)
-  const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+  const normalizedInput = (userInput || "").toLowerCase();
 
   try {
-    const promptParts = [contextPrompt];
+    // 1. Call your Local Backend (which talks to Ollama)
+    const response = await fetch('http://localhost:5000/api/ask', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ prompt: userInput })
+    });
 
-    if (imageFile) {
-      const base64Data = await new Promise((resolve) => {
-        const reader = new FileReader();
-        reader.onloadend = () => resolve(reader.result.split(',')[1]);
-        reader.readAsDataURL(imageFile);
-      });
-      promptParts.push({ inlineData: { data: base64Data, mimeType: imageFile.type } });
+    if (!response.ok) throw new Error("Local AI Backend not responding");
+
+    const data = await response.json();
+    return data.text;
+
+  } catch (error) {
+    // 2. FALLBACK: Local JSON Database matching if Ollama fails
+    console.error("AI Service failed, searching local JSON database...", error);
+    
+    const matchedProduct = productsData.find(p => 
+      p.foreign_brands.some(brand => normalizedInput.includes(brand.toLowerCase())) ||
+      normalizedInput.includes(p.category.toLowerCase())
+    );
+
+    if (matchedProduct) {
+      return formatLocalResponse(matchedProduct);
     }
 
-    const result = await model.generateContent(promptParts);
-    return result.response.text();
-  } catch (error) {
-    console.error("AI Error:", error);
-    return "Sistem su an mesgul. Lutfen tekrar deneyiniz.";
+    return "Urun veritabanimizda bulunamadi ancak yerli uretimi desteklemeye devam edin.";
   }
+};
+
+/**
+ * Helper: Format local database response nicely
+ * Used when AI is offline
+ */
+const formatLocalResponse = (product) => {
+  return `[Yerel Veri] ${product.foreign_brands.join(", ")} markalari boykot listesindedir.\n\n` +
+         `Yerli Alternatifler: ${product.turkish_alternatives.join(", ")}.\n\n` +
+         `Oneri: ${product.advice}`;
 };

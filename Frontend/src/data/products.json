@@ -1,32 +1,32 @@
 [
   {
-    "category": "Beverages",
-    "foreign_brands": ["Coca Cola", "Pepsi", "Fanta", "Sprite"],
-    "turkish_alternatives": ["Cola Turka", "Sarıyer Gazoz", "Uludağ", "Niğde Gazozu"],
-    "advice": "Yerli üretim olan Cola Turka veya doğal meyve aromalı Uludağ tercih edebilirsiniz."
+    "category": "İçecekler",
+    "foreign_brands": ["Coca Cola", "Pepsi", "Fanta", "Sprite", "Schweppes", "Lipton", "Nescafe", "Starbucks", "Jacobs"],
+    "turkish_alternatives": ["Cola Turka", "Sarıyer Gazoz", "Uludağ", "Niğde Gazozu", "Didi", "Kahve Dünyası", "Kurukahveci Mehmet Efendi", "Mahmood Coffee"],
+    "advice": "Yerli üretim olan Didi ve Niğde Gazozu gibi köklü markalarımızı tercih ederek ekonomiye destek olabilirsiniz."
   },
   {
-    "category": "Detergents",
-    "foreign_brands": ["Ariel", "Omo", "Fairy", "Finish"],
-    "turkish_alternatives": ["ABC", "Bingo", "Peros", "Ersag"],
-    "advice": "Temizlik ürünlerinde Bingo ve ABC gibi güçlü yerli markalarımız dünya standartlarındadır."
+    "category": "Temizlik",
+    "foreign_brands": ["Ariel", "Omo", "Alo", "Fairy", "Finish", "Domestos", "Cif", "Vanish", "Persil", "Tide"],
+    "turkish_alternatives": ["ABC", "Bingo", "Peros", "Ersag", "Naturalive", "Viking", "Hobby"],
+    "advice": "Bingo ve ABC gibi markalar Türkiye'de üretilmekte olup temizlik gücü açısından dünya standartlarındadır."
   },
   {
-    "category": "Snacks",
-    "foreign_brands": ["Nutella", "Milka", "Oreo", "Lay's"],
-    "turkish_alternatives": ["Torku Banada", "Eti", "Ülker", "Peyman"],
-    "advice": "Torku, %100 yerli şeker pancarı kullanarak daha doğal alternatifler sunmaktadır."
+    "category": "Atıştırmalık ve Gıda",
+    "foreign_brands": ["Nutella", "Milka", "Oreo", "Lay's", "Doritos", "Cheetos", "Maggi", "Knorr", "Danone", "Nestle"],
+    "turkish_alternatives": ["Torku Banada", "Eti", "Ülker", "Peyman", "Dardanel", "Filiz", "Tat", "Tukaş", "Sütaş", "İçim"],
+    "advice": "Torku, yerli şeker pancarı kullanarak daha doğal ürünler sunar. Ülker ve Eti ise en köklü yerli üreticilerimizdir."
   },
   {
-    "category": "Personal Care",
-    "foreign_brands": ["Colgate", "Pantene", "Head & Shoulders"],
-    "turkish_alternatives": ["Eyüp Sabri Tuncer", "Duru", "Dalin"],
-    "advice": "Kişisel bakımda Eyüp Sabri Tuncer gibi köklü yerli firmalarımızı tercih edebilirsiniz."
+    "category": "Kişisel Bakım",
+    "foreign_brands": ["Colgate", "Sensodyne", "Pantene", "Head & Shoulders", "Dove", "Lux", "Rexona", "Axe", "Gillette"],
+    "turkish_alternatives": ["Eyüp Sabri Tuncer", "Duru", "Dalin", "Selin", "Arko", "Farmasi", "Hobby"],
+    "advice": "Eyüp Sabri Tuncer ve Duru, kişisel bakımda yarım asırlık yerli tecrübe sunan kaliteli markalardır."
   },
   {
-    "category": "Coffee",
-    "foreign_brands": ["Starbucks", "Nescafe", "Jacobs"],
-    "turkish_alternatives": ["Kahve Dünyası", "Kurukahveci Mehmet Efendi", "Mahmood Coffee"],
-    "advice": "Türk kahvesi kültürünü yaşatan yerli markalarımız lezzet açısından daha üstündür."
+    "category": "Moda ve Teknoloji",
+    "foreign_brands": ["Zara", "H&M", "Nike", "Adidas", "Apple", "Samsung"],
+    "turkish_alternatives": ["LC Waikiki", "Koton", "Mavi", "DeFacto", "Vestel", "Casper", "Monster"],
+    "advice": "Tekstilde Mavi ve DeFacto global başarı yakalamış yerli markalarımızdır."
   }
 ]
