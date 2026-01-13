@@ -1,12 +1,32 @@
 [
   {
-    "name": "Coca Cola",
-    "status": "boycott",
-    "alternative": "Cola Turka"
+    "category": "Beverages",
+    "foreign_brands": ["Coca Cola", "Pepsi", "Fanta", "Sprite"],
+    "turkish_alternatives": ["Cola Turka", "Sarıyer Gazoz", "Uludağ", "Niğde Gazozu"],
+    "advice": "Yerli üretim olan Cola Turka veya doğal meyve aromalı Uludağ tercih edebilirsiniz."
   },
   {
-    "name": "Fanta",
-    "status": "boycott",
-    "alternative": "Sarıyer Portakal"
+    "category": "Detergents",
+    "foreign_brands": ["Ariel", "Omo", "Fairy", "Finish"],
+    "turkish_alternatives": ["ABC", "Bingo", "Peros", "Ersag"],
+    "advice": "Temizlik ürünlerinde Bingo ve ABC gibi güçlü yerli markalarımız dünya standartlarındadır."
+  },
+  {
+    "category": "Snacks",
+    "foreign_brands": ["Nutella", "Milka", "Oreo", "Lay's"],
+    "turkish_alternatives": ["Torku Banada", "Eti", "Ülker", "Peyman"],
+    "advice": "Torku, %100 yerli şeker pancarı kullanarak daha doğal alternatifler sunmaktadır."
+  },
+  {
+    "category": "Personal Care",
+    "foreign_brands": ["Colgate", "Pantene", "Head & Shoulders"],
+    "turkish_alternatives": ["Eyüp Sabri Tuncer", "Duru", "Dalin"],
+    "advice": "Kişisel bakımda Eyüp Sabri Tuncer gibi köklü yerli firmalarımızı tercih edebilirsiniz."
+  },
+  {
+    "category": "Coffee",
+    "foreign_brands": ["Starbucks", "Nescafe", "Jacobs"],
+    "turkish_alternatives": ["Kahve Dünyası", "Kurukahveci Mehmet Efendi", "Mahmood Coffee"],
+    "advice": "Türk kahvesi kültürünü yaşatan yerli markalarımız lezzet açısından daha üstündür."
   }
 ]
