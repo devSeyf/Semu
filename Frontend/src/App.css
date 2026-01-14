@@ -1,1 +1,9 @@
 
+/* Open App.css and paste this at the bottom */
+.result-text {
+  white-space: pre-wrap; 
+  line-height: 1.6;
+  font-size: 1.1rem;
+  color: #ffffff; /* Optional: to make sure text is white */
+  text-align: left; /* Optional: for better reading in Turkish */
+}
