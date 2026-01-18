@@ -12,14 +12,14 @@ app.post('/api/ask', async (req, res) => {
 
     const requestData = {
       model: "llava",
-      // التعليمات البرمجية الصادرة للذكاء الاصطناعي
+     
       prompt: `Sen profesyonel bir boykot rehberisin. Bu ürünü analiz et. Sadece şu formatta cevap ver:
       1. Menşei: [Ülke]
       2. Durum: [Boykot mu?]
       3. Yerli Alternatifler: [3 Marka]
       
       Gereksiz cümle kurma. Ürün: ${prompt}`,
-      stream: false, // لضمان وصول الإجابة كاملة وبسرعة
+      stream: false,  
       options: {
         num_predict: 80,
         temperature: 0.0,
