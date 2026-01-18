@@ -1,32 +1,4952 @@
 [
   {
-    "category": "İçecekler",
-    "foreign_brands": ["Coca Cola", "Pepsi", "Fanta", "Sprite", "Schweppes", "Lipton", "Nescafe", "Starbucks", "Jacobs"],
-    "turkish_alternatives": ["Cola Turka", "Sarıyer Gazoz", "Uludağ", "Niğde Gazozu", "Didi", "Kahve Dünyası", "Kurukahveci Mehmet Efendi", "Mahmood Coffee"],
-    "advice": "Yerli üretim olan Didi ve Niğde Gazozu gibi köklü markalarımızı tercih ederek ekonomiye destek olabilirsiniz."
+    "category": "Food Ordering",
+    "foreign_brands": [
+      "Talabat",
+      "طلبات"
+    ],
+    "origin": "Global",
+    "advice": "Bu Talabat ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
   },
   {
-    "category": "Temizlik",
-    "foreign_brands": ["Ariel", "Omo", "Alo", "Fairy", "Finish", "Domestos", "Cif", "Vanish", "Persil", "Tide"],
-    "turkish_alternatives": ["ABC", "Bingo", "Peros", "Ersag", "Naturalive", "Viking", "Hobby"],
-    "advice": "Bingo ve ABC gibi markalar Türkiye'de üretilmekte olup temizlik gücü açısından dünya standartlarındadır."
+    "category": "Snack Cake",
+    "foreign_brands": [
+      "7Days",
+      "7ديز"
+    ],
+    "origin": "Global",
+    "advice": "Bu 7Days ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
   },
   {
-    "category": "Atıştırmalık ve Gıda",
-    "foreign_brands": ["Nutella", "Milka", "Oreo", "Lay's", "Doritos", "Cheetos", "Maggi", "Knorr", "Danone", "Nestle"],
-    "turkish_alternatives": ["Torku Banada", "Eti", "Ülker", "Peyman", "Dardanel", "Filiz", "Tat", "Tukaş", "Sütaş", "İçim"],
-    "advice": "Torku, yerli şeker pancarı kullanarak daha doğal ürünler sunar. Ülker ve Eti ise en köklü yerli üreticilerimizdir."
+    "category": "Coffee",
+    "foreign_brands": [
+      "Abu Auf",
+      "أبو عوف"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
   },
   {
-    "category": "Kişisel Bakım",
-    "foreign_brands": ["Colgate", "Sensodyne", "Pantene", "Head & Shoulders", "Dove", "Lux", "Rexona", "Axe", "Gillette"],
-    "turkish_alternatives": ["Eyüp Sabri Tuncer", "Duru", "Dalin", "Selin", "Arko", "Farmasi", "Hobby"],
-    "advice": "Eyüp Sabri Tuncer ve Duru, kişisel bakımda yarım asırlık yerli tecrübe sunan kaliteli markalardır."
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Ahava",
+      "أهافا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
   },
   {
-    "category": "Moda ve Teknoloji",
-    "foreign_brands": ["Zara", "H&M", "Nike", "Adidas", "Apple", "Samsung"],
-    "turkish_alternatives": ["LC Waikiki", "Koton", "Mavi", "DeFacto", "Vestel", "Casper", "Monster"],
-    "advice": "Tekstilde Mavi ve DeFacto global başarı yakalamış yerli markalarımızdır."
+    "category": "Housing",
+    "foreign_brands": [
+      "Airbnb",
+      "إير بي إن بي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Convenience Store",
+    "foreign_brands": [
+      "Circle K",
+      "سيركل كي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Circle K ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Juice",
+    "foreign_brands": [
+      "Almarai Treats Milk",
+      "حليب المراعي ترييتس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Juice",
+    "foreign_brands": [
+      "Almarai Juice",
+      "عصير المراعي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Milk",
+    "foreign_brands": [
+      "Almarai Milk",
+      "حليب المراعي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Meat & Poultry",
+    "foreign_brands": [
+      "Almarai Turkey",
+      "ديك رومي المراعي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Yogurt",
+    "foreign_brands": [
+      "Almarai Yogurt",
+      "زبادي المراعي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Online Marketplace",
+    "foreign_brands": [
+      "Amazon",
+      "أمازون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Online Marketplace",
+    "foreign_brands": [
+      "Amazon.com",
+      "أمازون دوت كوم"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Platform",
+    "foreign_brands": [
+      "Amazon Appstore",
+      "متجر أمازون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Platform",
+    "foreign_brands": [
+      "Amazon Luna",
+      "أمازون لونا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Music",
+    "foreign_brands": [
+      "Amazon Music",
+      "أمازون ميوزيك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Payment",
+    "foreign_brands": [
+      "Amazon Pay",
+      "أمازون باي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Streaming",
+    "foreign_brands": [
+      "Amazon Prime",
+      "أمازون برايم"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Smart Devices",
+    "foreign_brands": [
+      "Amazon Echo",
+      "أمازون إيكو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Streaming",
+    "foreign_brands": [
+      "Amazon Prime Video",
+      "أمازون برايم فيديو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Streaming",
+    "foreign_brands": [
+      "MGM+",
+      "إم جي إم بلس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Streaming",
+    "foreign_brands": [
+      "Twitch",
+      "تويتش"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Smart Devices",
+    "foreign_brands": [
+      "Ring",
+      "رينج"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Software",
+    "foreign_brands": [
+      "Amazon Web Services",
+      "خدمات الويب أمازون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Software",
+    "foreign_brands": [
+      "Amazon Robotics",
+      "الروبوتيات أمازون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Ahlawy",
+      "اهلاوي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Chips",
+    "foreign_brands": [
+      "Zeego",
+      "زيجو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Chips",
+    "foreign_brands": [
+      "Lion",
+      "لايون"
+    ],
+    "origin": "Global",
+    "advice": "Bu Lion ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Corn Snacks",
+    "foreign_brands": [
+      "Chicka",
+      "تشيكا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Corn Snacks",
+    "foreign_brands": [
+      "Break",
+      "بريك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Corn Snacks",
+    "foreign_brands": [
+      "Windows",
+      "ويندوز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Appletiser",
+      "أبلتايزر"
+    ],
+    "origin": "Global",
+    "advice": "Bu Appletiser ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Ranni",
+      "راني"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Insurance",
+    "foreign_brands": [
+      "AXA",
+      "أكسا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Coffee, Breakfast and Donuts",
+    "foreign_brands": [
+      "Dunkin Dounts",
+      "دانكن دوناتس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Dunkin Dounts ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "Bershka",
+      "برشكا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Bershka ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Burgers",
+    "foreign_brands": [
+      "Mince Burger",
+      "مينس برجر"
+    ],
+    "origin": "Global",
+    "advice": "Bu Mince Burger ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Luxe",
+      "لوكس بسكوت"
+    ],
+    "origin": "Global",
+    "advice": "Bu Luxe ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Cocoa Lovers",
+      "كوكو لافرز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Cocoa Lovers ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Nice",
+      "نايس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Nice ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Datto",
+      "داتو"
+    ],
+    "origin": "Global",
+    "advice": "Bu Datto ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Marie",
+      "ماري"
+    ],
+    "origin": "Global",
+    "advice": "Bu Marie ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Tea Biscuits Max",
+      "ماكس بسكوت شاي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Tea Biscuits Max ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Wafers",
+      "ويفرز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Wafers ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Pastries",
+    "foreign_brands": [
+      "Maamoul",
+      "معمول"
+    ],
+    "origin": "Global",
+    "advice": "Bu Maamoul ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Media",
+    "foreign_brands": [
+      "Bloomberg",
+      "بلومبرج"
+    ],
+    "origin": "Global",
+    "advice": "Bu Bloomberg ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Travel",
+    "foreign_brands": [
+      "Booking.com",
+      "بوكينج دوت كوم"
+    ],
+    "origin": "Global",
+    "advice": "Bu Booking.com ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "Calvin Klein",
+      "كالفين كلاين"
+    ],
+    "origin": "Global",
+    "advice": "Bu Calvin Klein ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Sportswear",
+    "foreign_brands": [
+      "Michael Kors",
+      "مايكل كورس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Michael Kors ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Hypermarket",
+    "foreign_brands": [
+      "Carrefour",
+      "كارفور"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Construction",
+    "foreign_brands": [
+      "Caterpillar",
+      "كاتربيلر"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "Chanel",
+      "شانيل"
+    ],
+    "origin": "Global",
+    "advice": "Bu Chanel ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Fast Food",
+    "foreign_brands": [
+      "Hardee's",
+      "هارديز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Hardee's ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Dental Care",
+    "foreign_brands": [
+      "Colgate",
+      "كولجيت"
+    ],
+    "origin": "Global",
+    "advice": "Bu Colgate ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Media",
+    "foreign_brands": [
+      "Comcast Corp.",
+      "كومكاست كورب."
+    ],
+    "origin": "Global",
+    "advice": "Bu Comcast Corp. ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Coffee, Breakfast and Donuts",
+    "foreign_brands": [
+      "Costa Coffee",
+      "كوستا كوفي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Mineral Water",
+    "foreign_brands": [
+      "Evian",
+      "ايفان"
+    ],
+    "origin": "Global",
+    "advice": "Bu Evian ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Mineral Water",
+    "foreign_brands": [
+      "Hayat Water",
+      "ماء حياة"
+    ],
+    "origin": "Global",
+    "advice": "Bu Hayat Water ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Dell",
+      "ديل"
+    ],
+    "origin": "Global",
+    "advice": "Bu Dell ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Pizza",
+    "foreign_brands": [
+      "Domino's Pizza",
+      "دومينوز بيتزا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Domino's Pizza ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Batteries & Power",
+    "foreign_brands": [
+      "Duracell",
+      "دوراسيل"
+    ],
+    "origin": "Global",
+    "advice": "Bu Duracell ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Feminine Hygiene",
+    "foreign_brands": [
+      "Carefree",
+      "كيرفري"
+    ],
+    "origin": "Global",
+    "advice": "Bu Carefree ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Feminine Hygiene",
+    "foreign_brands": [
+      "Stayfree",
+      "ستيفري"
+    ],
+    "origin": "Global",
+    "advice": "Bu Stayfree ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Snack Cake",
+    "foreign_brands": [
+      "Hohos",
+      "هوهوز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Snack Cake",
+    "foreign_brands": [
+      "Tiger Tail",
+      "تايجر تيل"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Snack Cake",
+    "foreign_brands": [
+      "Twinkies",
+      "توينكيز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Software",
+    "foreign_brands": [
+      "Elementor",
+      "إليمنتور"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "MAC",
+      "ماك"
+    ],
+    "origin": "Global",
+    "advice": "Bu MAC ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "MAC cosmetics",
+      "ماك كوزمتكس"
+    ],
+    "origin": "Global",
+    "advice": "Bu MAC cosmetics ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Fenty",
+      "فينتي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Fenty ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Kinder bueno",
+      "كيندر بوينو"
+    ],
+    "origin": "Global",
+    "advice": "Bu Kinder bueno ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Ferrero Rocher",
+      "فريرو روشير"
+    ],
+    "origin": "Global",
+    "advice": "Bu Ferrero Rocher ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Raffaello Chocolate",
+      "رافيلو شوكولاته"
+    ],
+    "origin": "Global",
+    "advice": "Bu Raffaello Chocolate ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Jams, Honey & Spreads",
+    "foreign_brands": [
+      "Nutella",
+      "نوتيلا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Nutella ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Fiverr",
+      "فايفر"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Coffee, Breakfast and Donuts",
+    "foreign_brands": [
+      "Cinnabon",
+      "سينابون"
+    ],
+    "origin": "Global",
+    "advice": "Bu Cinnabon ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chips",
+    "foreign_brands": [
+      "Chipsy",
+      "شيبسي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Chipsy ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chips",
+    "foreign_brands": [
+      "Crunchy",
+      "كرانشي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Crunchy ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chips",
+    "foreign_brands": [
+      "Lays",
+      "ليز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Lays ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Corn Snacks",
+    "foreign_brands": [
+      "Sunbites",
+      "صن بايتس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Sunbites ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Corn Snacks",
+    "foreign_brands": [
+      "Cheetos",
+      "شيتوس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Corn Snacks",
+    "foreign_brands": [
+      "Doritos",
+      "دوريتوس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Software",
+    "foreign_brands": [
+      "DeepMind",
+      "ديب مايند"
+    ],
+    "origin": "Global",
+    "advice": "Bu DeepMind ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Software",
+    "foreign_brands": [
+      "Fitbit",
+      "فيتبيت"
+    ],
+    "origin": "Global",
+    "advice": "Bu Fitbit ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Streaming",
+    "foreign_brands": [
+      "YouTube",
+      "يوتيوب"
+    ],
+    "origin": "Global",
+    "advice": "Bu YouTube ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Cream",
+    "foreign_brands": [
+      "Danette Cream Caramel",
+      "دينيت كريم كاراميل"
+    ],
+    "origin": "Global",
+    "advice": "Bu Danette Cream Caramel ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Ice Cream and Desserts",
+    "foreign_brands": [
+      "Danette Pudding",
+      "دينيت بودينج"
+    ],
+    "origin": "Global",
+    "advice": "Bu Danette Pudding ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Ice Cream and Desserts",
+    "foreign_brands": [
+      "Danette Cinnabon",
+      "دينيت سينابون"
+    ],
+    "origin": "Global",
+    "advice": "Bu Danette Cinnabon ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Milk",
+    "foreign_brands": [
+      "Danone Milk",
+      "دانون حليب"
+    ],
+    "origin": "Global",
+    "advice": "Bu Danone Milk ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Health Snacks",
+    "foreign_brands": [
+      "Danone Protein Shake",
+      "دانون بروتين شيك"
+    ],
+    "origin": "Global",
+    "advice": "Bu Danone Protein Shake ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Yogurt",
+    "foreign_brands": [
+      "Danone Yogurt",
+      "دانون زبادي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Danone Yogurt ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Milk",
+    "foreign_brands": [
+      "Activia Milk",
+      "حليب أكتيفيا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Activia Milk ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "H&M",
+      "اتش آند ام"
+    ],
+    "origin": "Global",
+    "advice": "Bu H&M ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Dental Care",
+    "foreign_brands": [
+      "Sensodyne",
+      "سينسوداين"
+    ],
+    "origin": "Global",
+    "advice": "Bu Sensodyne ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Cheese",
+    "foreign_brands": [
+      "Halwani Bros Dairy",
+      "البان حلواني اخوان"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Cheese",
+    "foreign_brands": [
+      "Halwani Bros Cheese",
+      "جبنة حلواني اخوان"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Jams, Honey & Spreads",
+    "foreign_brands": [
+      "Halwani Bros Halawa",
+      "حلاوه حلواني اخوان"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Jams, Honey & Spreads",
+    "foreign_brands": [
+      "Halwani Bros Jams",
+      "مربى حلواني اخوان"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Jams, Honey & Spreads",
+    "foreign_brands": [
+      "Halwani Bros Tahina",
+      "طحينه حلواني اخوان"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Juice",
+    "foreign_brands": [
+      "Halwani Bros Juice",
+      "عصائر حلواني اخوان"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Meat & Poultry",
+    "foreign_brands": [
+      "Halwani Bros Meat",
+      "لحوم مجمدة حلواني اخوان"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Pastries",
+    "foreign_brands": [
+      "Halwani Bros Maamoul",
+      "معمول حلواني اخوان"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Malt",
+    "foreign_brands": [
+      "Amstel Malt",
+      "امستيل مالت"
+    ],
+    "origin": "Global",
+    "advice": "Bu Amstel Malt ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Malt",
+    "foreign_brands": [
+      "Birell",
+      "بيريل"
+    ],
+    "origin": "Global",
+    "advice": "Bu Birell ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Malt",
+    "foreign_brands": [
+      "Fayrouz",
+      "فيرووز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Fayrouz ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Malt",
+    "foreign_brands": [
+      "Musa",
+      "موسي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Musa ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Hair Care",
+    "foreign_brands": [
+      "Schwarzkopf",
+      "شوارزكوف"
+    ],
+    "origin": "Global",
+    "advice": "Bu Schwarzkopf ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Dishwashing",
+    "foreign_brands": [
+      "Persil",
+      "بيرسيل"
+    ],
+    "origin": "Global",
+    "advice": "Bu Persil ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Dishwashing",
+    "foreign_brands": [
+      "Pril",
+      "بريل"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pril ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Boom (reses)",
+      "بووم"
+    ],
+    "origin": "Global",
+    "advice": "Bu Boom (reses) ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "Reese's",
+      "ريزيز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Reese's ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Financial Institutions",
+    "foreign_brands": [
+      "HSBC",
+      "إتش إس بي سي"
+    ],
+    "origin": "Global",
+    "advice": "Bu HSBC ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chips",
+    "foreign_brands": [
+      "Hunter Ridges",
+      "هانتر ريدجز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "Zara",
+      "زارا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Zara ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Transportation",
+    "foreign_brands": [
+      "InDrive",
+      "إن درايف"
+    ],
+    "origin": "Global",
+    "advice": "Bu InDrive ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Intel",
+      "إنتل"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Furniture",
+    "foreign_brands": [
+      "IKEA",
+      "أيكيا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Coffee, Breakfast and Donuts",
+    "foreign_brands": [
+      "Caribou",
+      "كاريبو"
+    ],
+    "origin": "Global",
+    "advice": "Bu Caribou ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Coffee, Breakfast and Donuts",
+    "foreign_brands": [
+      "Krispy Kreme",
+      "كريسبي كريم"
+    ],
+    "origin": "Global",
+    "advice": "Bu Krispy Kreme ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Face & Body Skin Care",
+    "foreign_brands": [
+      "OGX",
+      "أو جي أكس"
+    ],
+    "origin": "Global",
+    "advice": "Bu OGX ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Face & Body Skin Care",
+    "foreign_brands": [
+      "Johnson's",
+      "جونسون"
+    ],
+    "origin": "Global",
+    "advice": "Bu Johnson's ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Diapers and Baby Care",
+    "foreign_brands": [
+      "Johnson & Johnson",
+      "جونسون أند جونسون"
+    ],
+    "origin": "Global",
+    "advice": "Bu Johnson & Johnson ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chips",
+    "foreign_brands": [
+      "Pringles",
+      "برينجلز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pringles ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "7UP",
+      "سيفن اب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Dr. Pepper",
+      "دكتور بيبر"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "RC Cola",
+      "آر سي كولا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Herbs, Spices & Breadcrumbs",
+    "foreign_brands": [
+      "Knorr Spices",
+      "بهارات كنور"
+    ],
+    "origin": "Global",
+    "advice": "Bu Knorr Spices ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Sauces, Dressings & Side Tables",
+    "foreign_brands": [
+      "Knorr Tomato Paste",
+      "صلصة كنور"
+    ],
+    "origin": "Global",
+    "advice": "Bu Knorr Tomato Paste ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Soup",
+    "foreign_brands": [
+      "Knorr Soup",
+      "شوربة كنور"
+    ],
+    "origin": "Global",
+    "advice": "Bu Knorr Soup ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Herbs, Spices & Breadcrumbs",
+    "foreign_brands": [
+      "Knorr Stock",
+      "مرقة كنور"
+    ],
+    "origin": "Global",
+    "advice": "Bu Knorr Stock ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Maybeline",
+      "ميبلين"
+    ],
+    "origin": "Global",
+    "advice": "Bu Maybeline ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Lancome",
+      "لانكوم"
+    ],
+    "origin": "Global",
+    "advice": "Bu Lancome ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "NYX",
+      "نيكس"
+    ],
+    "origin": "Global",
+    "advice": "Bu NYX ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Urban decay",
+      "أوربان ديكاي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Urban decay ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Cerave",
+      "سيرافي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Cerave ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Garnier",
+      "جارنييه"
+    ],
+    "origin": "Global",
+    "advice": "Bu Garnier ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Moisturiser",
+    "foreign_brands": [
+      "Cerave Moisturising Cream",
+      "كريم ترطيب سيرافي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Cerave Moisturising Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "L’Oreal",
+      "لوريال"
+    ],
+    "origin": "Global",
+    "advice": "Bu L’Oreal ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "Fendi",
+      "فندي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Fendi ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "Givenchy",
+      "جيفنشي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Givenchy ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "SEPHORA",
+      "سيفورا"
+    ],
+    "origin": "Global",
+    "advice": "Bu SEPHORA ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Benefit",
+      "بنفت"
+    ],
+    "origin": "Global",
+    "advice": "Bu Benefit ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Deodorant & Perfumes",
+    "foreign_brands": [
+      "Dior",
+      "ديور"
+    ],
+    "origin": "Global",
+    "advice": "Bu Dior ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Juice",
+    "foreign_brands": [
+      "Beyti",
+      "بيتي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Juice",
+    "foreign_brands": [
+      "Tropicana - Beyti",
+      "تروبيكانا - بيتى"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "M&M",
+      "ام اند ام"
+    ],
+    "origin": "Global",
+    "advice": "Bu M&M ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "Mars",
+      "مارس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Mars ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Bounty",
+      "باونتي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Bounty ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Flutes",
+      "فلوتس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Flutes ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Galaxy",
+      "جالكسي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Galaxy ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Snickers",
+      "سنيكرز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Snickers ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Twix",
+      "تويكس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Twix ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Maltesers",
+      "مالتيزرز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Maltesers ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "Skittles",
+      "سكيتلز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Skittles ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "M&M's",
+      "إم آند إمز"
+    ],
+    "origin": "Global",
+    "advice": "Bu M&M's ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Burgers",
+    "foreign_brands": [
+      "McDonald's",
+      "ماكدونالز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Jaffa Cakes",
+      "ماكفيتيز جافا كيكس"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Jaffa Cakes ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Chocolate Digestives",
+      "ماكفيتيز شوكولاتة ديجستيفز"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Chocolate Digestives ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Digestives",
+      "ماكفيتيز دايجستيفز"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Digestives ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Rich Tea",
+      "ماكفيتيز ريتش تي"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Rich Tea ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Hobnobs",
+      "ماكفيتيز هوبنوبس"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Hobnobs ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Club",
+      "ماكفيتيز كلوب"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Club ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Penguin",
+      "ماكفيتيز بنغوين"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Penguin ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Gold",
+      "ماكفيتيز جولد"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Gold ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Ginger Nuts",
+      "ماكفيتيز جنجر نتس"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Ginger Nuts ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Fruit Shortcake",
+      "ماكفيتيز فروت شورتكيك"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Fruit Shortcake ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Minis",
+      "ماكفيتيز مينيز"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Minis ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Gems",
+      "ماكفيتيز جيمز"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Gems ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Cookies",
+      "ماكفيتيز كوكيز"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Cookies ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Assortments",
+      "ماكفيتيز أسورتمنتس"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Assortments ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "McVitie's Jamaica Ginger",
+      "ماكفيتيز جامايكا جنجر"
+    ],
+    "origin": "Global",
+    "advice": "Bu McVitie's Jamaica Ginger ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Biskrem",
+      "بيسكريم"
+    ],
+    "origin": "Global",
+    "advice": "Bu Biskrem ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Digestive",
+      "دايجيستف"
+    ],
+    "origin": "Global",
+    "advice": "Bu Digestive ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Monday.com",
+      "موندي دوت كوم"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "Mentos",
+      "مينتوز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Mentos ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Oreo",
+      "اوريو"
+    ],
+    "origin": "Global",
+    "advice": "Bu Oreo ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Biscuits",
+    "foreign_brands": [
+      "Tuc",
+      "توك"
+    ],
+    "origin": "Global",
+    "advice": "Bu Tuc ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "Milka",
+      "ميلكا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Milka ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "Moro",
+      "مورو"
+    ],
+    "origin": "Global",
+    "advice": "Bu Moro ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "Chiclets",
+      "تشيكلتز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Chiclets ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "Clorets",
+      "كلوريتس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Clorets ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "Halls",
+      "هولز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Halls ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "Trident",
+      "ترايدنت"
+    ],
+    "origin": "Global",
+    "advice": "Bu Trident ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Cadbury",
+      "كادبوري"
+    ],
+    "origin": "Global",
+    "advice": "Bu Cadbury ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Juice",
+    "foreign_brands": [
+      "Tang",
+      "تانغ"
+    ],
+    "origin": "Global",
+    "advice": "Bu Tang ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Candy & Gum",
+    "foreign_brands": [
+      "Sour Patch Kids",
+      "ساور باتش كيدز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Sour Patch Kids ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Energy Drinks",
+    "foreign_brands": [
+      "Monster Energy",
+      "مونستر إنرجي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Monster Energy ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Energy Drinks",
+    "foreign_brands": [
+      "Monster",
+      "مونستر"
+    ],
+    "origin": "Global",
+    "advice": "Bu Monster ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Motorola",
+      "موتورولا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Motorola ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Baby Food",
+    "foreign_brands": [
+      "Ceralac",
+      "سيرالاك"
+    ],
+    "origin": "Global",
+    "advice": "Bu Ceralac ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Baby Food",
+    "foreign_brands": [
+      "Cerelac",
+      "سيريلاك"
+    ],
+    "origin": "Global",
+    "advice": "Bu Cerelac ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Baby Food",
+    "foreign_brands": [
+      "Gerber",
+      "جيربر"
+    ],
+    "origin": "Global",
+    "advice": "Bu Gerber ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Cereals",
+    "foreign_brands": [
+      "Teemy's",
+      "تيميز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Teemy's ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "KitKat",
+      "كيت كات"
+    ],
+    "origin": "Global",
+    "advice": "Bu KitKat ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Quality Street",
+      "كواليتي ستريت"
+    ],
+    "origin": "Global",
+    "advice": "Bu Quality Street ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Coffee",
+    "foreign_brands": [
+      "Coffee Mate",
+      "كوفي ميت"
+    ],
+    "origin": "Global",
+    "advice": "Bu Coffee Mate ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Aero Chocolate",
+      "أيرو شوكولاتة"
+    ],
+    "origin": "Global",
+    "advice": "Bu Aero Chocolate ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Cereals",
+    "foreign_brands": [
+      "Nesquik",
+      "نسكويك"
+    ],
+    "origin": "Global",
+    "advice": "Bu Nesquik ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Ice Cream and Frozen Treats",
+    "foreign_brands": [
+      "Haagen-Dazs",
+      "هاغن-داز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Haagen-Dazs ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Ice Cream and Frozen Treats",
+    "foreign_brands": [
+      "Maxibon",
+      "ماكسيبون"
+    ],
+    "origin": "Global",
+    "advice": "Bu Maxibon ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Ice Cream and Frozen Treats",
+    "foreign_brands": [
+      "Kimo Cono",
+      "كيمو كونو"
+    ],
+    "origin": "Global",
+    "advice": "Bu Kimo Cono ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Ice Cream and Frozen Treats",
+    "foreign_brands": [
+      "Mega",
+      "ميجا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Mega ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Mineral Water",
+    "foreign_brands": [
+      "Nestle Water",
+      "مياه نيسله"
+    ],
+    "origin": "Global",
+    "advice": "Bu Nestle Water ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Pet Carriers and Crates",
+    "foreign_brands": [
+      "Tidy Cats Cat Litter",
+      "تايدي كاتس رمل القطط"
+    ],
+    "origin": "Global",
+    "advice": "Bu Tidy Cats Cat Litter ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Pet Food and Treats",
+    "foreign_brands": [
+      "Fansy feast",
+      "فانسي فيست"
+    ],
+    "origin": "Global",
+    "advice": "Bu Fansy feast ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Pet Food and Treats",
+    "foreign_brands": [
+      "Friskies",
+      "فريسكيز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Friskies ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Energy & Nutrition Bars",
+    "foreign_brands": [
+      "Fitness snack bars",
+      "بارات اللياقة البدنية"
+    ],
+    "origin": "Global",
+    "advice": "Bu Fitness snack bars ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Coffee",
+    "foreign_brands": [
+      "Nescafé",
+      "نسكافيه"
+    ],
+    "origin": "Global",
+    "advice": "Bu Nescafé ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Coffee",
+    "foreign_brands": [
+      "Nespresso",
+      "نسبريسو"
+    ],
+    "origin": "Global",
+    "advice": "Bu Nespresso ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Herbs, Spices & Breadcrumbs",
+    "foreign_brands": [
+      "Maggi",
+      "ماجي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Maggi ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Milk",
+    "foreign_brands": [
+      "Nido",
+      "نيدو"
+    ],
+    "origin": "Global",
+    "advice": "Bu Nido ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Sportswear",
+    "foreign_brands": [
+      "Nike",
+      "نايك"
+    ],
+    "origin": "Global",
+    "advice": "Bu Nike ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Online Marketplace",
+    "foreign_brands": [
+      "Noon",
+      "نوون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Nvidia",
+      "إنفيديا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Nvidia ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Oracle",
+      "أوراكل"
+    ],
+    "origin": "Global",
+    "advice": "Bu Oracle ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Pizza",
+    "foreign_brands": [
+      "Papa John's",
+      "بابا جونز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Papa John's ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Payment",
+    "foreign_brands": [
+      "Payoneer",
+      "بايونير"
+    ],
+    "origin": "Global",
+    "advice": "Bu Payoneer ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Payment",
+    "foreign_brands": [
+      "Paypal",
+      "بايبال"
+    ],
+    "origin": "Global",
+    "advice": "Bu Paypal ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Tea",
+    "foreign_brands": [
+      "Lipton",
+      "ليبتون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Energy Drinks",
+    "foreign_brands": [
+      "Fury",
+      "فيوري"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Mineral Water",
+    "foreign_brands": [
+      "Aquafina",
+      "اكوافينا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Chips",
+    "foreign_brands": [
+      "Lay's",
+      "لايز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Mountain Dew",
+      "ماونتن ديو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Mirinda",
+      "ميرندا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Pepsi",
+      "بيبسي"
+    ],
+    "origin": "Global",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Hair Care",
+    "foreign_brands": [
+      "Head & Shoulders",
+      "هيد آند شولدرز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Hair Care",
+    "foreign_brands": [
+      "Herbal Essences",
+      "هيربال إيسنسز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Fabric Care",
+    "foreign_brands": [
+      "Bonux",
+      "بونكس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Fabric Care",
+    "foreign_brands": [
+      "Downy",
+      "داوني"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Fabric Care",
+    "foreign_brands": [
+      "Ariel",
+      "أريال"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Feminine Hygiene",
+    "foreign_brands": [
+      "Always",
+      "ألويز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Grooming",
+    "foreign_brands": [
+      "Gillette",
+      "جيليت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Grooming",
+    "foreign_brands": [
+      "Braun",
+      "براون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Dishwashing",
+    "foreign_brands": [
+      "Fairy",
+      "فيري"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Shower, Bath & Soap",
+    "foreign_brands": [
+      "Camay",
+      "كاماي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Dental Care",
+    "foreign_brands": [
+      "Crest",
+      "كرست"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Dental Care",
+    "foreign_brands": [
+      "Oral-B Glide",
+      "جلايد"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Face & Body Skin Care",
+    "foreign_brands": [
+      "Olay",
+      "أولاي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Dental Care",
+    "foreign_brands": [
+      "Oral-B",
+      "أورال-بي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Diapers and Baby Care",
+    "foreign_brands": [
+      "Pampers",
+      "بامبرز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Hair Care",
+    "foreign_brands": [
+      "Pantene",
+      "بانتين"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Hair Care",
+    "foreign_brands": [
+      "Pert Plus",
+      "بيرت بلس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Fabric Care",
+    "foreign_brands": [
+      "Tide",
+      "تايد"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Dishwashing",
+    "foreign_brands": [
+      "Dash",
+      "داش"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Dishwashing",
+    "foreign_brands": [
+      "Dreft",
+      "درفت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Feminine Hygiene",
+    "foreign_brands": [
+      "Tampax",
+      "تامباكس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Feminine Hygiene",
+    "foreign_brands": [
+      "Gilette Venus",
+      "جيليت فينوس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Charlotte Tilbury",
+      "تشارلوت تيلبوري"
+    ],
+    "origin": "Global",
+    "advice": "Bu Charlotte Tilbury ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Sportswear",
+    "foreign_brands": [
+      "Puma",
+      "بوما"
+    ],
+    "origin": "Global",
+    "advice": "Bu Puma ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Viber",
+      "فايبر"
+    ],
+    "origin": "Global",
+    "advice": "Bu Viber ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Energy Drinks",
+    "foreign_brands": [
+      "Redbull",
+      "ريدبول"
+    ],
+    "origin": "Global",
+    "advice": "Bu Redbull ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Burgers",
+    "foreign_brands": [
+      "Burger King",
+      "برجر كينج"
+    ],
+    "origin": "Global",
+    "advice": "Bu Burger King ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Schogetten",
+      "شوجوتين"
+    ],
+    "origin": "Global",
+    "advice": "Bu Schogetten ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Bosch",
+      "بوش"
+    ],
+    "origin": "Global",
+    "advice": "Bu Bosch ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Air Freshener",
+    "foreign_brands": [
+      "Glade",
+      "غليد"
+    ],
+    "origin": "Global",
+    "advice": "Bu Glade ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Air Freshener",
+    "foreign_brands": [
+      "Pledge",
+      "بليدج"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pledge ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Shoes and Footwear",
+    "foreign_brands": [
+      "Kiwi",
+      "كيوي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Kiwi ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Insect & Pest Control",
+    "foreign_brands": [
+      "Raid",
+      "ريد"
+    ],
+    "origin": "Global",
+    "advice": "Bu Raid ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Software",
+    "foreign_brands": [
+      "SAP",
+      "ساب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Butter, Oil & Ghee",
+    "foreign_brands": [
+      "Afia Oil",
+      "زيت عافية"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Rice, Pasta & Noodles",
+    "foreign_brands": [
+      "ElMaleka",
+      "مكرونة الملكة"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Butter, Oil & Ghee",
+    "foreign_brands": [
+      "Ganna Ghee",
+      "سمنة جنة"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Butter, Oil & Ghee",
+    "foreign_brands": [
+      "Rawaby Ghee",
+      "سمنة روابي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Siemens",
+      "سيمنز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Siemens ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Market",
+    "foreign_brands": [
+      "Spinneys",
+      "سبينيز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Spinneys ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Coffee, Breakfast and Donuts",
+    "foreign_brands": [
+      "Starbucks",
+      "ستاربكس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Starbucks ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Fast Food",
+    "foreign_brands": [
+      "Subway",
+      "سب واي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Subway ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Juice",
+    "foreign_brands": [
+      "Sun Top",
+      "صن توب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Rockstar Games, Inc.",
+      "روكستار جيمز، إنك."
+    ],
+    "origin": "Global",
+    "advice": "Bu Rockstar Games, Inc. ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Fast Food",
+    "foreign_brands": [
+      "The Fridays",
+      "فراي دايز"
+    ],
+    "origin": "Global",
+    "advice": "Bu The Fridays ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Dishwashing",
+    "foreign_brands": [
+      "Clorox",
+      "كلوروكس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Clorox ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Energy Drinks",
+    "foreign_brands": [
+      "Sting",
+      "ستينج"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Mineral Water",
+    "foreign_brands": [
+      "Dasani",
+      "دساني"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Coca-Cola",
+      "كوكاكولا"
+    ],
+    "origin": "Global",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Fanta",
+      "فانتا"
+    ],
+    "origin": "Global",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Schweppes",
+      "شويبس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Sprite",
+      "سبرايت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Fresca",
+      "فريسكا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Diet Coke",
+      "دايت كوك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Sport Cola",
+      "سبورت كولا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Bobbi brown",
+      "بوبي براون"
+    ],
+    "origin": "Global",
+    "advice": "Bu Bobbi brown ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Clinique",
+      "كلينيك"
+    ],
+    "origin": "Global",
+    "advice": "Bu Clinique ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Sauces, Dressings & Side Tables",
+    "foreign_brands": [
+      "Heinz",
+      "هاينز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Heinz ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "HP",
+      "اتش بي"
+    ],
+    "origin": "Global",
+    "advice": "Bu HP ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "Pull&Bear",
+      "بول آند بير"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pull&Bear ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Coffee",
+    "foreign_brands": [
+      "Folgers",
+      "فولجرز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Folgers ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Nuts and Seeds",
+    "foreign_brands": [
+      "Disney",
+      "ديزني"
+    ],
+    "origin": "Global",
+    "advice": "Bu Disney ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Nuts and Seeds",
+    "foreign_brands": [
+      "Tribe and Sabra Hummus",
+      "قبيلة وصبرا حمص"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Transportation",
+    "foreign_brands": [
+      "Careem",
+      "كريم"
+    ],
+    "origin": "Global",
+    "advice": "Bu Careem ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Transportation",
+    "foreign_brands": [
+      "Uber",
+      "أوبر"
+    ],
+    "origin": "Global",
+    "advice": "Bu Uber ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Petroleum Jelly",
+    "foreign_brands": [
+      "Vaseline",
+      "ڤاسلين"
+    ],
+    "origin": "Global",
+    "advice": "Bu Vaseline ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Fabric Care",
+    "foreign_brands": [
+      "Comfort",
+      "كومفورت"
+    ],
+    "origin": "Global",
+    "advice": "Bu Comfort ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Sauces, Dressings & Side Tables",
+    "foreign_brands": [
+      "Hellmann's",
+      "هيلمانز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Hellmann's ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Dental Care",
+    "foreign_brands": [
+      "Signal",
+      "سيجنال"
+    ],
+    "origin": "Global",
+    "advice": "Bu Signal ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Dishwashing",
+    "foreign_brands": [
+      "Cif",
+      "سيف"
+    ],
+    "origin": "Global",
+    "advice": "Bu Cif ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Hair Care",
+    "foreign_brands": [
+      "Clear",
+      "كلير"
+    ],
+    "origin": "Global",
+    "advice": "Bu Clear ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Shower, Bath & Soap",
+    "foreign_brands": [
+      "LUX",
+      "لوكس"
+    ],
+    "origin": "Global",
+    "advice": "Bu LUX ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Deodorant & Perfumes",
+    "foreign_brands": [
+      "Axe",
+      "أكس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Soup",
+    "foreign_brands": [
+      "Lifebuoy",
+      "لايف بوي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Lifebuoy ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Ice Cream and Frozen Treats",
+    "foreign_brands": [
+      "Magnum",
+      "ماغنوم"
+    ],
+    "origin": "Global",
+    "advice": "Bu Magnum ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Olly",
+      "أولي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Olly ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Fabric Care",
+    "foreign_brands": [
+      "Omo",
+      "أومو"
+    ],
+    "origin": "Global",
+    "advice": "Bu Omo ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Deodorant & Perfumes",
+    "foreign_brands": [
+      "Rexona",
+      "ريكسونا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Rexona ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Hair Care",
+    "foreign_brands": [
+      "Sunsilk",
+      "صنسيلك"
+    ],
+    "origin": "Global",
+    "advice": "Bu Sunsilk ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Dove",
+      "دوڤ"
+    ],
+    "origin": "Global",
+    "advice": "Bu Dove ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Normaderm",
+      "نورمادرم"
+    ],
+    "origin": "Global",
+    "advice": "Bu Normaderm ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Minéral 89",
+      "مينيرال 89"
+    ],
+    "origin": "Global",
+    "advice": "Bu Minéral 89 ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Vitamin C Serum",
+      "سيروم فيتامين سي ليفت أكتيف"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Vitamin C Serum ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Supreme",
+      "ليفت أكتيف سوبريم"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Supreme ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Anti-Wrinkle Night Cream",
+      "كريم ليفتاكتيف الليلي المضاد للتجاعيد"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Anti-Wrinkle Night Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Hyaluronic Acid Eye Cream",
+      "كريم العين بحمض الهيالورونيك ليفت أكتيف"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Hyaluronic Acid Eye Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv B3 Serum Dark Spots & Wrinkles",
+      "سيروم LiftActiv B3 للبقع الداكنة والتجاعيد"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv B3 Serum Dark Spots & Wrinkles ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Supreme H.A. Wrinkle Corrector",
+      "LiftActiv Supreme H.A. مصحح التجاعيد"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Supreme H.A. Wrinkle Corrector ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Peptide-C",
+      "ليفتاكتيف الببتيد-C"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Peptide-C ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Pureté Thermale 3-in-1 One Step Cleanser",
+      "منظف Pureté Thermale 3 في 1 بخطوة واحدة"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pureté Thermale 3-in-1 One Step Cleanser ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Capital Soleil Ultra Light Sunscreen SPF 50",
+      "واقي الشمس كابيتال سوليل خفيف للغاية بعامل حماية من الشمس 50"
+    ],
+    "origin": "Global",
+    "advice": "Bu Capital Soleil Ultra Light Sunscreen SPF 50 ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Vitamin C + Retinol Power Holiday Gift Set",
+      "مجموعة هدايا فيتامين سي + ريتينول باور للعطلات"
+    ],
+    "origin": "Global",
+    "advice": "Bu Vitamin C + Retinol Power Holiday Gift Set ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Neovadiol Meno 5 Serum",
+      "مصل نيوفاديول مينو 5"
+    ],
+    "origin": "Global",
+    "advice": "Bu Neovadiol Meno 5 Serum ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Skin Care Starter Holiday Gift Set",
+      "مجموعة هدايا العطلة للمبتدئين للعناية بالبشرة"
+    ],
+    "origin": "Global",
+    "advice": "Bu Skin Care Starter Holiday Gift Set ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Pureté Thermale Gel Cleanser",
+      "منظف جل Pureté Thermale"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pureté Thermale Gel Cleanser ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Minéral 89 Eyes",
+      "مينيرال 89 عيون"
+    ],
+    "origin": "Global",
+    "advice": "Bu Minéral 89 Eyes ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Serum 10 Eyes & Lashes",
+      "مصل ليفت أكتيف 10 للعيون والرموش"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Serum 10 Eyes & Lashes ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Normaderm PhytoAction Acne Control Daily Moisturizer",
+      "مرطب يومي للتحكم في حب الشباب من نورماديرم فيتو أكشن"
+    ],
+    "origin": "Global",
+    "advice": "Bu Normaderm PhytoAction Acne Control Daily Moisturizer ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Neovadiol Post-Menopause Day Cream",
+      "كريم نيوفاديول النهاري بعد انقطاع الطمث"
+    ],
+    "origin": "Global",
+    "advice": "Bu Neovadiol Post-Menopause Day Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Pureté Thermale Toner",
+      "تونر بيوريتي ثيرمال"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pureté Thermale Toner ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Aqualia Thermal Night Spa",
+      "سبا أكواليا الحراري الليلي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Aqualia Thermal Night Spa ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Idéalia Night Cream",
+      "كريم إيدياليا الليلي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Idéalia Night Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Normaderm PhytoAction Daily Deep Cleansing Gel",
+      "جل التنظيف العميق اليومي نورماديرم فيتو أكشن"
+    ],
+    "origin": "Global",
+    "advice": "Bu Normaderm PhytoAction Daily Deep Cleansing Gel ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Nutrilogie 2",
+      "نوتريلوجي 2"
+    ],
+    "origin": "Global",
+    "advice": "Bu Nutrilogie 2 ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Pure Retinol Serum",
+      "مصل الريتينول النقي من ليفت أكتيف"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Pure Retinol Serum ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Minéral 89 Fragrance Free Cream",
+      "مينيرال 89 كريم خالي من العطور"
+    ],
+    "origin": "Global",
+    "advice": "Bu Minéral 89 Fragrance Free Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Minéral 89 Prebiotic",
+      "مينيرال 89 بريبيوتيك"
+    ],
+    "origin": "Global",
+    "advice": "Bu Minéral 89 Prebiotic ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Dry Touch Deodorant",
+      "مزيل رائحة العرق دراي تاتش"
+    ],
+    "origin": "Global",
+    "advice": "Bu Dry Touch Deodorant ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Vichy Volcanic Water",
+      "مياه فيشي البركانية"
+    ],
+    "origin": "Global",
+    "advice": "Bu Vichy Volcanic Water ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Peptide-C Sunscreen SPF 30",
+      "واقي الشمس ليفت أكتيف ببتيد-سي بعامل حماية من الشمس 30"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Peptide-C Sunscreen SPF 30 ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Hydration Power Duo",
+      "ثنائي قوة الترطيب"
+    ],
+    "origin": "Global",
+    "advice": "Bu Hydration Power Duo ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Aqualia Thermal Fragrance Free",
+      "خالٍ من العطور الحرارية من أكواليا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Aqualia Thermal Fragrance Free ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Supreme Serum 10",
+      "ليفت أكتيف سوبريم سيروم 10"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Supreme Serum 10 ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Aqualia Thermal UV Defense Sunscreen SPF 30",
+      "واقي الشمس الحراري من أكواليا للأشعة فوق البنفسجية بعامل حماية من الشمس 30"
+    ],
+    "origin": "Global",
+    "advice": "Bu Aqualia Thermal UV Defense Sunscreen SPF 30 ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "The Post-Menopause Duo",
+      "ثنائي ما بعد انقطاع الطمث"
+    ],
+    "origin": "Global",
+    "advice": "Bu The Post-Menopause Duo ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Aqualia Thermal Rich Cream",
+      "كريم أكواليا الحراري الغني"
+    ],
+    "origin": "Global",
+    "advice": "Bu Aqualia Thermal Rich Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Neovadiol Peri-Menopause Day Cream",
+      "كريم النهار نيوفاديول في فترة ما قبل انقطاع الطمث"
+    ],
+    "origin": "Global",
+    "advice": "Bu Neovadiol Peri-Menopause Day Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Most Favorited Holiday Gift Set",
+      "مجموعة هدايا العيد الأكثر تفضيلاً"
+    ],
+    "origin": "Global",
+    "advice": "Bu Most Favorited Holiday Gift Set ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Aqualia Thermal Face Serum",
+      "مصل الوجه الحراري أكواليا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Aqualia Thermal Face Serum ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Minéral 89 Rich Cream",
+      "مينيرال 89 كريم غني"
+    ],
+    "origin": "Global",
+    "advice": "Bu Minéral 89 Rich Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Idéalia Eyes",
+      "عيون إيدياليا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Idéalia Eyes ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Super Serums Holiday Gift Set",
+      "مجموعة هدايا العيد من سوبر سيروم"
+    ],
+    "origin": "Global",
+    "advice": "Bu Super Serums Holiday Gift Set ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Aqualia Thermal Eye Balm",
+      "بلسم العين الحراري من اكواليا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Aqualia Thermal Eye Balm ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "The Peri-Menopause Duo",
+      "الثنائي في فترة ما قبل انقطاع الطمث"
+    ],
+    "origin": "Global",
+    "advice": "Bu The Peri-Menopause Duo ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Retinol Treatment",
+      "علاج ليفت أكتيف بالريتينول"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Retinol Treatment ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Pureté Thermale Mineral Micellar Water for Sensitive Skin",
+      "ماء ميسيلار المعدني Pureté Thermale للبشرة الحساسة"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pureté Thermale Mineral Micellar Water for Sensitive Skin ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Normaderm BHA Exfoliating Serum",
+      "مصل التقشير نورمادرم BHA"
+    ],
+    "origin": "Global",
+    "advice": "Bu Normaderm BHA Exfoliating Serum ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Pureté Thermale Foaming Cream",
+      "كريم رغوي Pureté Thermale"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pureté Thermale Foaming Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Double Glow Peel Mask",
+      "قناع التقشير ذو التوهج المزدوج"
+    ],
+    "origin": "Global",
+    "advice": "Bu Double Glow Peel Mask ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Aqualia Thermal Water Gel",
+      "جل الماء الحراري اكواليا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Aqualia Thermal Water Gel ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Normaderm S.O.S Acne Rescue Spot Corrector",
+      "نورماديرم إس أو إس مصحح بقع حب الشباب"
+    ],
+    "origin": "Global",
+    "advice": "Bu Normaderm S.O.S Acne Rescue Spot Corrector ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Dermafinish Setting Powder",
+      "بودرة تثبيت ديرمافينيش"
+    ],
+    "origin": "Global",
+    "advice": "Bu Dermafinish Setting Powder ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Mineral Pore Purifying Clay Mask",
+      "قناع الطين المعدني لتنقية المسام"
+    ],
+    "origin": "Global",
+    "advice": "Bu Mineral Pore Purifying Clay Mask ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Dermafinish Corrective Foundation Stick",
+      "قلم كريم الأساس التصحيحي ديرمافينيش"
+    ],
+    "origin": "Global",
+    "advice": "Bu Dermafinish Corrective Foundation Stick ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Ultra-Nourishing Hand Cream",
+      "كريم لليدين فائق التغذية"
+    ],
+    "origin": "Global",
+    "advice": "Bu Ultra-Nourishing Hand Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Idéalia Day Cream",
+      "كريم إيدياليا النهاري"
+    ],
+    "origin": "Global",
+    "advice": "Bu Idéalia Day Cream ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Capital Soleil Tinted 100% Mineral Sunscreen SPF 60",
+      "واقي الشمس كابيتال سوليل ملون 100% معدني بعامل حماية من الشمس 60"
+    ],
+    "origin": "Global",
+    "advice": "Bu Capital Soleil Tinted 100% Mineral Sunscreen SPF 60 ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Pureté Thermale 3-In-1 Micellar Wipes",
+      "Pureté Thermale 3 في 1 مناديل ميسيلار"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pureté Thermale 3-In-1 Micellar Wipes ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Dermafinish Corrective Fluid Foundation",
+      "كريم أساس ديرمافينيش السائل التصحيحي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Dermafinish Corrective Fluid Foundation ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Vitamin C + Hyaluronic Acid Anti-Aging Holiday Gift Set",
+      "مجموعة هدايا العطلات فيتامين C + حمض الهيالورونيك المضادة للشيخوخة"
+    ],
+    "origin": "Global",
+    "advice": "Bu Vitamin C + Hyaluronic Acid Anti-Aging Holiday Gift Set ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "The Anti-Aging Regimen",
+      "نظام مكافحة الشيخوخة"
+    ],
+    "origin": "Global",
+    "advice": "Bu The Anti-Aging Regimen ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "The Skin Cycling Set",
+      "مجموعة ركوب الدراجات الجلدية"
+    ],
+    "origin": "Global",
+    "advice": "Bu The Skin Cycling Set ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Vitamin C + B3 Radiance Holiday Gift Set",
+      "مجموعة هدايا العطلة فيتامين C + B3 راديانس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Vitamin C + B3 Radiance Holiday Gift Set ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "BHA + B3 Acne Holiday Gift Set",
+      "مجموعة هدايا عيد حب الشباب BHA + B3"
+    ],
+    "origin": "Global",
+    "advice": "Bu BHA + B3 Acne Holiday Gift Set ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Proxylane + Retinol Menopause Duo",
+      "ثنائي بروكسيلان + ريتينول لانقطاع الطمث"
+    ],
+    "origin": "Global",
+    "advice": "Bu Proxylane + Retinol Menopause Duo ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Ideal Soleil Self Tanner",
+      "مستحضر تسمير البشرة المثالي سوليل"
+    ],
+    "origin": "Global",
+    "advice": "Bu Ideal Soleil Self Tanner ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Neovadiol Day Compensating Complex",
+      "مجمع نيوفاديول للتعويض النهاري"
+    ],
+    "origin": "Global",
+    "advice": "Bu Neovadiol Day Compensating Complex ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Bestsellers Duo",
+      "الثنائي الأكثر مبيعا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Bestsellers Duo ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Idéalia Radiance Serum",
+      "سيروم إيدياليا راديانس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Idéalia Radiance Serum ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Neovadiol Night Compensating Complex",
+      "مجمع نيوفاديول للتعويض الليلي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Neovadiol Night Compensating Complex ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Vichy Homme After Shave",
+      "فيشي أوم بعد الحلاقة"
+    ],
+    "origin": "Global",
+    "advice": "Bu Vichy Homme After Shave ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Vichy Homme Shaving Foam",
+      "رغوة الحلاقة فيشي هوم"
+    ],
+    "origin": "Global",
+    "advice": "Bu Vichy Homme Shaving Foam ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Quenching Mineral Face Mask",
+      "قناع الوجه المعدني المروي"
+    ],
+    "origin": "Global",
+    "advice": "Bu Quenching Mineral Face Mask ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Pureté Thermale Micellar Water for Combination to Oily Skin",
+      "Pureté Thermale Micellar Water للبشرة المختلطة إلى الدهنية"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pureté Thermale Micellar Water for Combination to Oily Skin ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "Capital Soleil Soft Sheer Sunscreen SPF 60",
+      "واقي شمسي ناعم شفاف من كابيتال سوليل بعامل حماية من الشمس 60"
+    ],
+    "origin": "Global",
+    "advice": "Bu Capital Soleil Soft Sheer Sunscreen SPF 60 ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "LiftActiv Hyalu Mask",
+      "قناع ليفت أكتيف هيالو"
+    ],
+    "origin": "Global",
+    "advice": "Bu LiftActiv Hyalu Mask ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Underwear & Sleepwear",
+    "foreign_brands": [
+      "Victoria’s Secret",
+      "فيكتوريا سيكريت"
+    ],
+    "origin": "Global",
+    "advice": "Bu Victoria’s Secret ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Mineral Water",
+    "foreign_brands": [
+      "Baraka",
+      "بركة"
+    ],
+    "origin": "Global",
+    "advice": "Bu Baraka ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Car Manufacturer",
+    "foreign_brands": [
+      "Volvo",
+      "فولفو"
+    ],
+    "origin": "Global",
+    "advice": "Bu Volvo ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Convenience Store",
+    "foreign_brands": [
+      "On The Run",
+      "اون ذا رن"
+    ],
+    "origin": "Global",
+    "advice": "Bu On The Run ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Waze",
+      "ويز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Waze ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Wix",
+      "ويكس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Fried Chicken",
+    "foreign_brands": [
+      "KFC",
+      "دجاج كنتاكي"
+    ],
+    "origin": "Global",
+    "advice": "Bu KFC ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Pizza",
+    "foreign_brands": [
+      "Pizza Hut",
+      "بيزا هات"
+    ],
+    "origin": "Global",
+    "advice": "Bu Pizza Hut ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Shoes and Footwear",
+    "foreign_brands": [
+      "Skechers",
+      "سكشيرز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Skechers ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "Vans",
+      "فانز"
+    ],
+    "origin": "Global",
+    "advice": "Bu Vans ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "Converse",
+      "كونفيرس"
+    ],
+    "origin": "Global",
+    "advice": "Bu Converse ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "US Polo",
+      "يو إس بولو"
+    ],
+    "origin": "Global",
+    "advice": "Bu US Polo ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Sportswear",
+    "foreign_brands": [
+      "Reebok",
+      "ريبوك"
+    ],
+    "origin": "Global",
+    "advice": "Bu Reebok ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "American Eagle",
+      "أمريكان إيغل"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Sportswear",
+    "foreign_brands": [
+      "Fila",
+      "فيلا"
+    ],
+    "origin": "Global",
+    "advice": "Bu Fila ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Beauty Products",
+    "foreign_brands": [
+      "KIKO Milano",
+      "كيكو ميلانو"
+    ],
+    "origin": "Global",
+    "advice": "Bu KIKO Milano ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Jams, Honey & Spreads",
+    "foreign_brands": [
+      "Hero honey",
+      "عسل هيرو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Baby Food",
+    "foreign_brands": [
+      "Hero formula milks",
+      "هيرو لبن اطفال"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Baby Food",
+    "foreign_brands": [
+      "Hero jars for babies",
+      "برطمانات هيرو للأطفال"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Juice",
+    "foreign_brands": [
+      "Hero juices",
+      "عصير هيرو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Cereals",
+    "foreign_brands": [
+      "Hero cereals",
+      "حبوب إفطار هيرو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Baby Food",
+    "foreign_brands": [
+      "Hero baby biscuits",
+      "بسكوت هيرو للأطفال"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Jams, Honey & Spreads",
+    "foreign_brands": [
+      "Vitrac Jam",
+      "مربى فيتراك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Juice",
+    "foreign_brands": [
+      "Vitrac Juice",
+      "فيتراك عصير مركز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Juice",
+    "foreign_brands": [
+      "Vitrac Syrup",
+      "سيرب فيتراك (شرابات)"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Jams, Honey & Spreads",
+    "foreign_brands": [
+      "Hero Jam",
+      "مربى هيرو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Jams, Honey & Spreads",
+    "foreign_brands": [
+      "Hero peanut butter",
+      "هيرو زبدة فول سوداني"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Sportswear",
+    "foreign_brands": [
+      "Decathlon",
+      "ديكاثلون"
+    ],
+    "origin": "Global",
+    "advice": "Bu Decathlon ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "CheckPoint",
+      "تشيكبوينت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "CyberArk",
+      "سايبر أرك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Imperva",
+      "إمبيرفا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Tufin",
+      "توفين"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Aqua Security",
+      "أكوا سكيوريتي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Axonius",
+      "أكسونيوس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Claroty",
+      "كلاروتي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Cybereason",
+      "سايبريزون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Noname Security",
+      "نونيم سكيوريتي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Salt Security",
+      "سالت سكيوريتي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Silverfort",
+      "سيلفرفورت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Snyk",
+      "سنيك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Wiz",
+      "ويز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Apiiro",
+      "أبيرو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Blink Ops",
+      "بلينك أوبس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Descope",
+      "ديسكوب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Dig Security",
+      "ديج سكيوريتي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Panoray",
+      "بانوراي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Sentra",
+      "سنترا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Talon",
+      "تالون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Pagaya",
+      "باجايا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Fundbox",
+      "فاندبوكس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Melio",
+      "ميليو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Rapyd",
+      "رابيد"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Tipalti",
+      "تيبالتي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Balance",
+      "بالانس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "FundGuard",
+      "فاندجارد"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Jifiti",
+      "جيفيتي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Mesh Payments",
+      "ميش بيمنتس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Noble",
+      "نوبل"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "PayEm",
+      "باي إم"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Trullion",
+      "تروليون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Unit",
+      "يونيت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Celery",
+      "سيليري"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Fintastic",
+      "فينتاستيك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Gelt",
+      "جيلت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Monto",
+      "مونتو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Receive",
+      "ريسيف"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Nice Systems",
+      "نايس سيستمز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Walkme",
+      "ووكمي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Gong",
+      "جونج"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Lusha",
+      "لوشا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Dealhub",
+      "ديلهاب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Demoleap",
+      "ديموليب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Sweep",
+      "سويب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Walnut",
+      "والنت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Aligned",
+      "أليند"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Dany",
+      "داني"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Graphiti",
+      "جرافيتي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Intail.ai",
+      "إنتيل.إي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Substrata",
+      "سوبستراتا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Bob",
+      "بوب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Deel",
+      "ديل"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Papaya Global",
+      "بابايا جلوبال"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "A.Team",
+      "أي.تيم"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "GrowthSpace",
+      "جروث سبيس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "myQuest",
+      "ماي كويست"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Draftboard",
+      "درافتبورد"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Gloww",
+      "جلو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "myInterview",
+      "ماي إنترفيو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Firebolt",
+      "فايربولت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Appwrite",
+      "أبرايت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Komodor",
+      "كومودور"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Regatta Data",
+      "ريجاتا داتا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Rivery",
+      "ريفيري"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Zesty",
+      "زيستي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Finout",
+      "فيناوت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Firefly",
+      "فايرفلاي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Amdocs",
+      "أمدوكس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "JFrog",
+      "جي فروج"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "AI21 Labs",
+      "إيه آي 21 لابز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "BigPanda",
+      "بيج باندا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Cloudinary",
+      "كلاوديناري"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Coralogix",
+      "كورالوجيكس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Logz.io",
+      "لوجز.آي.أو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Sisense",
+      "سيسنس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Explorium",
+      "إكسبلوريوم"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Frontegg",
+      "فرونت إيج"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Indeitq",
+      "إندايتك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Permit.io",
+      "بيرميت.آي.أو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Qwak",
+      "كواك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Salto",
+      "سالتو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Codium",
+      "كوديوم"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "DagsHub",
+      "داجزهاب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Swimm",
+      "سويم"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Wilco",
+      "ويلكو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Kaltura",
+      "كالتورا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Similarweb",
+      "سيميلار ويب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Appsflyer",
+      "أبس فلاير"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Lightricks",
+      "لايتريكس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Yotpo",
+      "يوتبو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Affogata",
+      "أفوغاتا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Optimove",
+      "أوبتيموف"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "PeerSpot",
+      "بير سبوت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Riverside.fm",
+      "ريفرسايد.ف.إم"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Trendemon",
+      "ترينديمون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "TripleWhale",
+      "تريبل ويل"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Mapme",
+      "مابمي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Global-e",
+      "جلوبال-إي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Riskified",
+      "ريسكيفايد"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Bringg",
+      "برينج"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Fabric",
+      "فابريك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Forter",
+      "فورتر"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Mixtiles",
+      "ميكستايلز"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Placer.ai",
+      "بلاسير.آي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "8fig",
+      "أيت.فيج"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Finaloop",
+      "فاينالوب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Nexite",
+      "نيكست"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Trigo",
+      "تريجو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Chargeflow",
+      "تشارجفلو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "PDQ",
+      "بي دي كيو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Tolstoy",
+      "تولستوي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Connecteam",
+      "كونيكتيم"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Honeybook",
+      "هوني بوك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Verbit",
+      "فيربيت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Anima",
+      "أنيما"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Powtoon",
+      "باوتون"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Groove",
+      "جروف"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Rupert",
+      "روبرت"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "TimeOS",
+      "تايم أو إس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Aidoc",
+      "إيدوك"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "DeepCure",
+      "ديب كيور"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Eleos Health",
+      "إليوس هيلث"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Healthy.io",
+      "هيلثي.آي.أو"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Immunai",
+      "إميوناي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "K Health",
+      "كي هيلث"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Ritual",
+      "ريتشوال"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Droxi.ai",
+      "دروكسي.آي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Navina",
+      "نافينا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "Stuff That Works",
+      "ستاف ذات وركس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Meat & Poultry",
+    "foreign_brands": [
+      "Atyab",
+      "أطياب"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Hair Care",
+    "foreign_brands": [
+      "TRESemmé",
+      "تريزيمّيي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Chocolates",
+    "foreign_brands": [
+      "Mandolin",
+      "ماندولين"
+    ],
+    "origin": "Global",
+    "advice": "Bu Mandolin ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Soft Drinks",
+    "foreign_brands": [
+      "Tropicana",
+      "تروبيكانا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Mineral Water",
+    "foreign_brands": [
+      "Acqua Panna",
+      "أكوا بانّا"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Yogurt",
+    "foreign_brands": [
+      "Actimel",
+      "اكتيميل"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Yogurt",
+    "foreign_brands": [
+      "Activia Yogurt",
+      "اكتيفيا زبادي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Sportswear",
+    "foreign_brands": [
+      "Adidas",
+      "أديداس"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "Furniture",
+    "foreign_brands": [
+      "Aerin - Estee Lauder",
+      "إيرين - إيستيي لودر"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
+  },
+  {
+    "category": "General Clothing",
+    "foreign_brands": [
+      "Aeropostale",
+      "ايروبوستال"
+    ],
+    "origin": "Global",
+    "advice": "Bu Aeropostale ürünü boykot listesindedir. Lütfen yerli alternatifleri tercih edin."
+  },
+  {
+    "category": "Technology",
+    "foreign_brands": [
+      "GoDaddy",
+      "جو دادي"
+    ],
+    "origin": "Türkiye",
+    "advice": "Bu yerli bir üretimdir, güvenle kullanabilirsiniz."
   }
 ]
